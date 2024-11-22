@@ -1,4 +1,5 @@
 -- my comment
+-- this is a conflicting comment
 with
 
 source as (
