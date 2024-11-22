@@ -1,6 +1,7 @@
 -- my comment
 -- this is a conflicting comment
 -- another comment
+-- boo
 with
 
 source as (
