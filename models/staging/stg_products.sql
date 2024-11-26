@@ -28,7 +28,6 @@ renamed as (
         coalesce(type = 'beverage', false) as is_drink_item
 
     from source
-    where sku is not null
 
 )
 
