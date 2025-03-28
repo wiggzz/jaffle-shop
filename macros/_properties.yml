@@ -1,0 +1,13 @@
+macros:
+  - name: cents_to_dollars
+    description: convert cents to dollars
+    docs:
+      show: true
+    arguments:
+      - name: column_name
+        type: int
+        description: the column name to convert
+
+    - name: another_macro
+      description: another macro
+      
